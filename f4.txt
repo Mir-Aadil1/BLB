@@ -1,3 +1,4 @@
 file4.txt
 This line was added in feature2 branch
 another modification in feature 2
+Hello there
